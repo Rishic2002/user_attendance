@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300727626338",
+    "project_id": "attendance-f26fb",
+    "storage_bucket": "attendance-f26fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300727626338:android:330ef8f3fdcc98915d7f3b",
+        "android_client_info": {
+          "package_name": "com.example.student_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300727626338-ts6pl9dtithe99tseqt4g10hb0jp8i2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQemA6J3XwugEAWcmXDm2ffr9opM0GPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300727626338-ts6pl9dtithe99tseqt4g10hb0jp8i2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
